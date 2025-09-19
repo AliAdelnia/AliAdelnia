@@ -46,5 +46,12 @@ I enjoy experimenting with AI projects in my free time and constantly challengin
 
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAdelnia&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliAdelnia&layout=compact&theme=radical)
+
+<!-- Stats Card -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliadelnia&show_icons=true&theme=radical&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliadelnia&layout=compact&theme=radical&hide_border=true)
+
+<!-- Streak Stats -->
+
