@@ -44,15 +44,6 @@ I enjoy experimenting with AI projects in my free time and constantly challengin
 
 ---
 
-## 🚀 Featured Projects
-- **Food Reservation System** — simple C++ project for managing student meal reservations.  
-  `https://github.com/AliAdelnia/food-reservation`  
-- **Vehicle AI Chatbot** — Python AI chatbot for vehicle advice.  
-  `https://github.com/AliAdelnia/vehicle-chatbot`  
-
-*(Replace the URLs above with your actual project links if different.)*
-
----
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AliAdelnia&show_icons=true&theme=radical)
